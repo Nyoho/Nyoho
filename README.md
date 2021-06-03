@@ -1,9 +1,13 @@
+<p>
 <a href="https://github.com/Nyoho">
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=Nyoho&show_icons=true&theme=dracula" />
 </a>
 <a href="https://github.com/Nyoho">
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyoho&layout=compact&show_icons=true&theme=dracula" />
 </a>
+</p>
+
+[![](https://gitwar.herokuapp.com/badge?username=Nyoho&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
 
 ### GitHub stuffs
 
