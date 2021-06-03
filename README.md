@@ -5,4 +5,13 @@
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyoho&layout=compact&show_icons=true&theme=dracula" />
 </a>
 
-My sample codes are here [https://github.com/NyohoSampleCodes](https://github.com/NyohoSampleCodes).
+<details>	
+  <summary><b>☄️ Github Streaks</b></summary>
+
+  <br />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Nyoho&hide_border=true" />
+</details>
+
+### Links
+
+- [My sample codes](https://github.com/NyohoSampleCodes).
