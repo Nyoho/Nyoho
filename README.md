@@ -4,3 +4,5 @@
 <a href="https://github.com/Nyoho">
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyoho&layout=compact&show_icons=true&theme=dracula" />
 </a>
+
+My sample codes are here [https://github.com/NyohoSampleCodes](https://github.com/NyohoSampleCodes).
