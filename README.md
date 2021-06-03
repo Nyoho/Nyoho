@@ -5,8 +5,10 @@
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyoho&layout=compact&show_icons=true&theme=dracula" />
 </a>
 
+### GitHub stuffs
+
 <details>	
-  <summary><b>☄️ Github Streaks</b></summary>
+  <summary><b>☄️ GitHub Streaks</b></summary>
 
   <br />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Nyoho&hide_border=true" />
