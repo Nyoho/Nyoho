@@ -11,7 +11,7 @@
   <summary><b>☄️ GitHub Streaks</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Nyoho&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Nyoho&theme=radical&hide_border=true" />
 </details>
 
 ### Links
