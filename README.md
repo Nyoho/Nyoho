@@ -1,3 +1,7 @@
+
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=Safari&logoColor=white)](https://nyoho.jp)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/NeXTSTEP2OSX)
+
 <p>
 <a href="https://github.com/Nyoho">
   <img height="170px" src="https://github-readme-stats.vercel.app/api?username=Nyoho&show_icons=true&theme=dracula" />
