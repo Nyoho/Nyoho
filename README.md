@@ -15,13 +15,13 @@
 
 ### GitHub stuffs
 
-<a href="https://git.io/streak-stats"><img height="180em" src="https://streak-stats.demolab.com?user=Nyoho&theme=radical&hide_border=true" /></a>
+<a href="https://git.io/streak-stats"><img height="180em" src="https://github-readme-streak-stats-lac-nine.vercel.app?user=Nyoho&theme=radical&hide_border=true" /></a>
 
 <details>	
   <summary><b>☄️ GitHub Streaks</b></summary>
 
   <br />
-  <a href="https://git.io/streak-stats"><img height="180em" src="https://streak-stats.demolab.com?user=Nyoho&theme=radical&hide_border=true" /></a>
+  <a href="https://git.io/streak-stats"><img height="180em" src="https://github-readme-streak-stats-lac-nine.vercel.app?user=Nyoho&theme=radical&hide_border=true" /></a>
 </details>
 
 ### Links
